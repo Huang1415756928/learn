@@ -1,0 +1,7 @@
+{
+    "programmer": "ArduinoISP",
+    "port": "COM3",
+    "board": "esp8266:esp8266:espresso_lite_v1",
+    "configuration": "xtal=80,vt=flash,exception=legacy,ssl=all,eesz=4M2M,ResetMethod=nodemcu,ip=lm2f,dbg=Disabled,lvl=None____,wipe=none,baud=115200",
+    "sketch": "freertos_blink_ble.ino"
+}
